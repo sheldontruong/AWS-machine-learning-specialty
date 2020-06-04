@@ -3,11 +3,12 @@
 ## 1. AWS's recommended knowledge and experience:
 
 ***Check this link for full details: [click here](https://aws.amazon.com/certification/certified-machine-learning-specialty/)***
+
 > **There are 4 domains within 65 questions in this exam:**
-* Data engineering: 20%
-* Exploratory data analysis: 24%
-* Modeling: 36%
-* Machine learning implementation: 20%
+> 1. Data engineering: 20%
+> 2. Exploratory data analysis: 24%
+> 3. Modeling: 36%
+> 4. Machine learning implementation: 20%
 
 * 1-2 years of experience developing, architecting, or running ML/deep learning workloads on the AWS Cloud
 * The ability to express the intuition behind basic ML algorithms
