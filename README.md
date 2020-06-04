@@ -39,7 +39,7 @@
 * **Course AWS Machine Learning - Specialty**: học về cái bằng ở đây, mình học ở [acloud.guru](https://acloud.guru/learn/aws-certified-machine-learning-specialty), nhưng mình mới phát hiện 1 course khác ở [linuxacademy](https://linuxacademy.com/course/aws-certified-machine-learning-specialty/) có vẻ đầy đủ chi tiết hơn và cũng đã recommend sếp pay cái này cho anh em học
 
 
-* **Developer Guide của các service** & **White paper của AWS**: trong quá trình học và giải đề bạn sẽ cần phải tìm hiểu sâu hơn về các service, nên cứ bí service nào thì lên google tìm documentation của service đó ở trang aws để đọc là được, trong khóa học ở trên người ta cũng sẽ recommend resources thì các bạn cứ down về đọc, mình cũng recommend 1 White paper mà mình thấy khá có ích ở [đây](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)
+* **Developer Guide của các service** & **White paper của AWS**: trong quá trình học và giải đề bạn sẽ cần phải tìm hiểu sâu hơn về các service, nên cứ bí service nào thì lên google tìm documentation của service đó ở trang aws để đọc là được, trong khóa học ở trên người ta cũng sẽ recommend resources thì các bạn cứ down về đọc, mình cũng recommend 1 White paper về Big Data solution on AWS mà mình thấy khá có ích ở [đây](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)
 
 
 * **Practice**: Hãy thử nhiều service nhất có thể để có cảm giác về nó. Hãy chú ý SageMaker vì mọi thứ sẽ xoay quanh rất nhiều về nó. Đừng bỏ qua các hands-on lab nếu gặp chúng nó trong khóa học.
