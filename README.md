@@ -70,7 +70,7 @@ Còn rất nhiều kiểu câu hỏi khác, như là kết hợp service như th
 * Khoảng 2 ngày sau thì kết quả điểm sẽ trả về ở mail và trang đăng kí thi.
 
 
-Và đây là kết quả của mình hihi
+Và đây là kết quả của mình hihi :heart_eyes:
 
 ![alt text](images/aws-score.png)
 
