@@ -33,44 +33,44 @@
 
 ## 3. Documentation:
 
-* **Course AWS Developer - Associate**: to familiar with the basic services of AWS, you do not need to take this certificate but just take it if you want, [youtube](https://www.youtube.com/watch?v=RrKRN9zRBWs) (on youtube, no quiz, no engsub or vietsub anymore since it's to long - 11 hours, but free), or [acloud.guru](https://acloud.guru/learn/aws-certified-developer-associate) (It has fee, also has english subtitle, quiz and hands-on lab, I learnt here because my company pay everything)
+* **Course AWS Developer - Associate**: to familiar with the basic services of AWS, you do not need to take this certificate but just take it if you want, [youtube](https://www.youtube.com/watch?v=RrKRN9zRBWs) (on youtube, no quiz, no engsub or vietsub anymore since it's to long - 11 hours, but free), or [acloud.guru](https://acloud.guru/learn/aws-certified-developer-associate) (It charges fee, also has english subtitle, quiz and hands-on lab, I learnt here because my company pay everything)
 
 
 * **Course AWS Machine Learning - Specialty**: all knowledge of the main certificate, I studied at [acloud.guru](https://acloud.guru/learn/aws-certified-machine-learning-specialty), but I have figured out another course at [linuxacademy](https://linuxacademy.com/course/aws-certified-machine-learning-specialty/) seem more detailed and also recommended my boss pay this course for other people in company.
 
 
-* **Developer Guide của các service** & **White paper của AWS**: trong quá trình học và giải đề bạn sẽ cần phải tìm hiểu sâu hơn về các service, nên cứ bí service nào thì lên google tìm documentation của service đó ở trang aws để đọc là được, trong khóa học ở trên người ta cũng sẽ recommend resources thì các bạn cứ down về đọc, mình cũng recommend 1 White paper về Big Data solution on AWS mà mình thấy khá có ích ở [đây](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)
+* **Developer Guide of services** & **White paper on AWS**: while studying and reviewing you need to explore deeper about services, so just google the service's documentation on the AWS website whenever you confuse, there are also the recommended resouces in the course, just take a look at them, I found a useful white paper about Big data solution on AWS at [here](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html), you should read it.
 
 
-* **Practice**: Hãy thử nhiều service nhất có thể để có cảm giác về nó. Hãy chú ý SageMaker vì mọi thứ sẽ xoay quanh rất nhiều về nó. Đừng bỏ qua các hands-on lab nếu gặp chúng nó trong khóa học.
+* **Practice**: Let try as much as possible every service you meet during studying. Pay more attention to Sagemaker, it is the heart of machine learning on AWS. Don't skip any hand-ons lab when you meet it in the courses.
 
 
-* **Giải đề**: lợi ích của học các course trả phí là nó sẽ có đề thi thử cuối khóa, mình đã giải qua các đề của ***Acloud.guru***(có explanation), ***Whizlab***(có explanation chi tiết, cái này có anh bạn tốt bụng cho mình mượn account) và ***Examtopic*** (cái này đừng tin theo đáp án của nó vì không chính xác đâu, hãy tự tìm hiểu documentation và các tài liệu khác để chọn đáp án, xem discussion của mọi người cho từng câu nữa), nói thật là mình chưa bao giờ pass khi thi thử :D, có thể do ẩu và nôn nóng. Đêm trước khi thi mình vẫn chưa yên tâm nên pay thêm 1 đề của ***Udemy***(cũng có explanation chi tiết) để giải, tất nhiên là cũng fail luôn. Ngoài ra, AWS cũng có đề thi thử 20 câu nhưng tới 40$ khá chát và cũng không có explanation chi tiết nên mình không pay, chỉ giải cái đề thử free của nó thôi - **[link](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf)**
+* **Trial exam**: the benefit of the paid course is the trial exam at the end of course, I have took the exams of ***Acloud.guru***(fully explanation), ***Whizlab***(detailed explanation, a kind guy gave me his account having this course) and ***Examtopic*** (Don't believe the answer of this page since it's not accurate, let figure out by yourself the correct answer by reading documentation and discussion). The night before the exam I was still not assured so I decided to pay one more exam of ***Udemy***(also has detailed explanation). Moreover, AWS have the simulation with 20 questions but it's too expensive (40$) so I didn't pay, I only did its free sample exam - **[link](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf)**
 
 
-* Ngoài ra, sẽ luôn có các service lạ như là AWS Batch, AWS Step Function hoặc Deeplens, DeepRacer, Iot Greengrass, Iot Core, etc. Hãy cố gắng đọc sơ qua để không bị bí những câu dễ dễ của services đó , nhiều khi nó xuất hiện trong những đáp án sai nhưng vì chúng ta không biết về nó nên bị phân tâm. Hãy ôn lại những kiến thức xác suất thống kê như Bernulli distribution, Binomial distribution, Poisson distribution, hệ số tương quan Pearson, ý nghĩa của residual plot, Naive Bayes, Full Bayes, etc. Hầu hết những câu mình bí hoặc không chắc trong đề thi đều là những câu dạng suy luận của xác suất thống kê này, cũng không nhiều, nhưng thà giết nhầm còn hơn bỏ sót chứ đúng không :))))
+* Besides, bear in your mind that it's always have strange services as AWS Batch, AWS Step Function or Deeplens, DeepRacer, IOT Greengrass, Iot Core, etc. Please try to take a look at these things to make sure you don't confuse any of them even if they appear in a wrong choice. Let strongly review the knowledge of probability and statistics as Bernulli distribution, Binomial distribution, Poisson distribution, Pearson correlation coefficient, residual plot, Naive Bayes, Full Bayes, etc. Almost question which I don't know or ensure the right answer is belong to this domain, the inference question of statistics and probability, although there are not many question of this type but better safe than sorry, right? :D
 
-* Nên đọc thật kĩ câu hỏi và suy luận context khi nào nên dùng các service. 
+* You should read really carefully the question and infer the context of using services.
 
-Ví dụ:
+Example:
 
-> Giữa Step Function và Batch thì nếu bạn có 1 process đã hoàn chỉnh, bạn muốn chạy phân tán nó trên nhiều resource, có khả năng schedule, manage những công việc đó thì Batch là lựa chọn hoàn hảo. 
+> Between Batch and Step Function, if you have a complete process, you want run it on many compute resources that you can manage, schedule this process easily, Batch is the choice.
 
-> Ngược lại bạn có 1 process trong đầu chưa thực hiện, bạn muốn stack nhiều bước và resource thành một dây chuyền xử lí để thực hiện process đó thì lựa chọn Step Function
+> In contrast, you have a process of many steps that each step need a different compute resource or service, you want to combine these steps into a complete procedure thus Step Function is your best choice.
 
-Còn rất nhiều kiểu câu hỏi khác, như là kết hợp service như thế nào để hợp lí nhất, rẻ nhất, nhanh nhất, hiệu quả nhất, etc. Hãy giải đề và đọc explanation chi tiết để tự tìm câu trả lời cho mình.
+There are also many other types of question, like which services or composition of services is the best choice, fastest choice, most efficient or cost-effective choice, etc. You need to figure out by do as much as you can the trial exam and read the explanation carefully. Good luck!
 
-## 4. Đi thi:
+## 4. Let's go to the place to do the examination:
 
-* Book phòng: ở aws.training (1 phòng 1 người thôi không phải 2 người :D)
-* Đóng 300$.
-* Nhớ chọn ESL (tiếng anh là ngôn ngữ thứ 2) để được cộng thêm 30 phút
-* Chiến thuật làm bài: thời gian là 3 tiếng 30 phút, giải một lượt hết 65 câu, flag những câu không chắc chắn, sau đó quay lại check kĩ lại những câu chắc chắn (để chắc chắn rằng không mất điểm những câu này), sau đó mới tìm những câu để flag để đọc lại lần nữa và suy luận kĩ hơn. Với mình thì mình flag khoảng 15 câu ở lượt đầu tiên và mình đã dùng hết 3 tiếng rưỡi để check đi check lại được 3 lần cái đề ^^.
-* Sau khi nộp bài sẽ có kết quả ngay đậu rớt nhưng không có điểm cụ thể.
-* Khoảng 2 ngày sau thì kết quả điểm sẽ trả về ở mail và trang đăng kí thi.
+* Book the exam: at http://aws.training
+* Fee: 300$.
+* If you are not native speaker, choose ESL (English second language) to be added 30 minutes.
+* Strategy: the total time of the test is 3,5 hours, answer all 65 questions at the first time, flag unsure answers, then return carefully to check all reliable questions(to make sure that you do not misread or wrongly choose), then find the flag answer to carefully read and infer again. In my case, at the first turn I flagged 15 answers and used all 3,5 hours to check and check 3 times my exam.
+* After click on the "End test" button, you will know immediately your result of pass or fail.
+* About after 2 days, they will send you a email to inform the result again and you can check the score at their site.
 
 
-Và đây là kết quả của mình hihi :heart_eyes:
+And here are my accomplishment kk :heart_eyes:
 
 ![alt text](images/aws-score.png)
 
