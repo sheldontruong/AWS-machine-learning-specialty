@@ -65,9 +65,9 @@ There are also many other types of question, like which services or composition 
 * Book the exam: at http://aws.training
 * Fee: 300$.
 * If you are not native speaker, choose ESL (English second language) to be added 30 minutes.
-* Strategy: the total time of the test is 3,5 hours, answer all 65 questions at the first time, flag unsure answers, then return carefully to check all reliable questions(to make sure that you do not misread or wrongly choose), then find the flag answer to carefully read and infer again. In my case, at the first turn I flagged 15 answers and used all 3,5 hours to check and check 3 times my exam.
-* After click on the "End test" button, you will know immediately your result of pass or fail.
-* About after 2 days, they will send you a email to inform the result again and you can check the score at their site.
+* Strategy: the total time of the test is 3,5 hours, answer all 65 questions at the first time, flag unsure answers, then return to check carefully all reliable questions (to make sure that you do not misread or wrongly choose), then find the flag answer to carefully read and infer again. In my case, at the first turn I flagged 15 answers and used all 3,5 hours to check and check 3 times my exam.
+* After click on the "End test" button, you will know immediately your result as pass or fail.
+* After about 2 days, they will send you a email to inform the result again and you can check the score at their site.
 
 
 And here are my accomplishment kk :heart_eyes:
