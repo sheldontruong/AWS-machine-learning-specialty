@@ -17,15 +17,15 @@
 * The ability to follow model-training best practices
 * The ability to follow deployment and operational best practices
 
-## 2. Recommendation của mình:
+## 2. My recommendation:
 
-> ***Bằng này theo mình thì bao gồm 2 nội dung lớn:***
+> ***In my opinion, this certificate consists of 2 big elements***
 
-* Machine learning (build,train,evaluation,deployment)
-* AWS services dùng để thực hiện những cái ở trên trên infrastructure của AWS
-* Bạn nên là 1 machine learning practitioner trước đó rồi, chỉ học thêm nền tảng của AWS thôi.
+* Machine learning (building,training,evaluation,deployment)
+* AWS services used for implementing everything above inside AWS infrastructure.
+* *It will be easier if you are a Machine Learning practioner before, you just need to learn AWS infrastructure.*
 
-> **Trước khi thi thì đây là mình:**
+> **Me before the certificate**
 
 * 2 năm kinh nghiệm với machine learning & deep learning, nhưng phần xử lí, khai phá dữ liệu mình khá ngu (vì khúc đó dở dở ương ương học không kĩ), nên mình khá mất thời gian để ôn các phần kiểu như visualization nào dành cho bài toán nào, insight của data, các loại phương pháp đánh giá và usage.
 * Khoảng 4 tháng tiếp xúc với AWS (thực ra cũng chưa biết gì nhiều, chỉ dùng chủ yếu S3 để storage với EC2 để làm server train model thôi, với 1 chút chút về IAM để manage user, resouces các thứ), so don't worry, nothing's impossible :D
