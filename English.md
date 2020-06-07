@@ -1,5 +1,5 @@
 # Amazon Web Services Machine Learning - Specialty Experience
-### * Full English [here](English.md)
+
 ## 1. AWS's recommended knowledge and experience:
 
 ***Check this link for full details: [click here](https://aws.amazon.com/certification/certified-machine-learning-specialty/)***
