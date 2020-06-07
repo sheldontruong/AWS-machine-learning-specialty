@@ -27,16 +27,16 @@
 
 > **Me before the certificate**
 
-* 2 years experience in Machine Learning & Deep Learning, but I am not too familiar with data mining, exploratory data analysis because I mainly work on computer vision(of course I've already learned data science before, but maybe at that time I love game than data so haha), thus it's take me a punch of time to review all the knowledge around data as visualization, data insight, evaluation, use case, etc.
-* Khoảng 4 tháng tiếp xúc với AWS (thực ra cũng chưa biết gì nhiều, chỉ dùng chủ yếu S3 để storage với EC2 để làm server train model thôi, với 1 chút chút về IAM để manage user, resouces các thứ), so don't worry, nothing's impossible :D
-* Vừa đi làm vừa ôn thi trong khoảng 3 tháng, mình cũng bị tật delay nên các bạn hoàn toàn có thể hoàn thành sớm hơn.
+* 2 years experience in Machine Learning & Deep Learning, but I am not too familiar with data mining, exploratory data analysis because I mainly work on computer vision (of course I've already learned data science before, but maybe at that time I like doing something than learning data so haha, i missed it), thus it's take me a punch of time to review all the knowledge around data as visualization, data insight, evaluation, use case, etc.
+* Nearly 4 months of exposure to AWS (actually my knowledge at this time is just limited around S3 for storage, EC2 for training model, and a little bit of IAM for manage user, policy, resouces, etc.), so don't worry, nothing's impossible :D 
+* I have reviewed everything while still working in a company for about 3 months, I'm also procrastinative too much so you absolutely can achieve it in a shorter time.
 
-## 3. Tài liệu để học và ôn thi:
+## 3. Documentation:
 
-* **Course AWS Developer - Associate**: để biết và làm quen với các service cơ bản của AWS, không cần thi cái này ai thích thì thi cũng được, [youtube](https://www.youtube.com/watch?v=RrKRN9zRBWs) (học trên youtube, không bài kiểm tra, không engsub hay vietsub gì hết vì quá dài - 11 tiếng, nhưng được cái free), hoặc [acloud.guru](https://acloud.guru/learn/aws-certified-developer-associate) (mất phí, học có engsub, có quiz và hands-on lab, mình học ở đây vì được công ty pay hết mấy cái này)
+* **Course AWS Developer - Associate**: to familiar with the basic services of AWS, you do not need to take this certificate but just take it if you want, [youtube](https://www.youtube.com/watch?v=RrKRN9zRBWs) (on youtube, no quiz, no engsub or vietsub anymore since it's to long - 11 hours, but free), or [acloud.guru](https://acloud.guru/learn/aws-certified-developer-associate) (It has fee, also has english subtitle, quiz and hands-on lab, I learnt here because my company pay everything)
 
 
-* **Course AWS Machine Learning - Specialty**: học về cái bằng ở đây, mình học ở [acloud.guru](https://acloud.guru/learn/aws-certified-machine-learning-specialty), nhưng mình mới phát hiện 1 course khác ở [linuxacademy](https://linuxacademy.com/course/aws-certified-machine-learning-specialty/) có vẻ đầy đủ chi tiết hơn và cũng đã recommend sếp pay cái này cho anh em học
+* **Course AWS Machine Learning - Specialty**: all knowledge of the main certificate, I studied at [acloud.guru](https://acloud.guru/learn/aws-certified-machine-learning-specialty), but I have figured out another course at [linuxacademy](https://linuxacademy.com/course/aws-certified-machine-learning-specialty/) seem more detailed and also recommended my boss pay this course for other people in company.
 
 
 * **Developer Guide của các service** & **White paper của AWS**: trong quá trình học và giải đề bạn sẽ cần phải tìm hiểu sâu hơn về các service, nên cứ bí service nào thì lên google tìm documentation của service đó ở trang aws để đọc là được, trong khóa học ở trên người ta cũng sẽ recommend resources thì các bạn cứ down về đọc, mình cũng recommend 1 White paper về Big Data solution on AWS mà mình thấy khá có ích ở [đây](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)

@@ -1,21 +1,21 @@
-# Amazon Web Services Machine Learning - Specialty Experience
+# Kinh nghiệm đi thi cert Amazon Web Services Machine Learning - Specialty
 ### > Full English [here](English.md)
-## 1. AWS's recommended knowledge and experience:
+## 1. Kiến thức và kinh nghiệm khuyến nghị của AWS:
 
 ***Check this link for full details: [click here](https://aws.amazon.com/certification/certified-machine-learning-specialty/)***
 
-> **There are 4 domains within 65 questions in this exam:**
+> **Có 4 phần kiến thức lớn trong cái cert này:**
 > 1. Data engineering: 20%
 > 2. Exploratory data analysis: 24%
 > 3. Modeling: 36%
 > 4. Machine learning implementation: 20%
 
-* 1-2 years of experience developing, architecting, or running ML/deep learning workloads on the AWS Cloud
-* The ability to express the intuition behind basic ML algorithms
-* Experience performing basic hyperparameter optimization
-* Experience with ML and deep learning frameworks
-* The ability to follow model-training best practices
-* The ability to follow deployment and operational best practices
+* 1-2 năm kinh nghiệm trong việc phát triển, kiến trúc, hoặc sử dụng những công nghệ ML/deep learning trên nền tảng điện toán đám mây của AWS 
+* Có kĩ năng giải thích những ý tưởng trực quan đằng sau các thuật toán ML
+* Có kinh nghiệm trong việc triển khai và tối ưu các hyperparameter của các thuật toán ML
+* Có kinh nghiệm với các framework dành cho ML và deep learning
+* Có kĩ năng theo dõi quá trình huấn luyện các model và biết các giải pháp tốt nhất cho các tình huống cụ thể.
+* Có kĩ năng triển khai, tổ chức model ra sản phẩm và biết các giải pháp tốt nhất cho các tình huống cụ thể. 
 
 ## 2. Recommendation của mình:
 
