@@ -27,7 +27,7 @@
 
 > **Me before the certificate**
 
-* 2 năm kinh nghiệm với machine learning & deep learning, nhưng phần xử lí, khai phá dữ liệu mình khá ngu (vì khúc đó dở dở ương ương học không kĩ), nên mình khá mất thời gian để ôn các phần kiểu như visualization nào dành cho bài toán nào, insight của data, các loại phương pháp đánh giá và usage.
+* 2 years experience in Machine Learning & Deep Learning, but I am not too familiar with data mining, exploratory data analysis because I mainly work on computer vision(of course I've already learned data science before, but maybe at that time I love game than data so haha), thus it's take me a punch of time to review all the knowledge around data as visualization, data insight, evaluation, use case, etc.
 * Khoảng 4 tháng tiếp xúc với AWS (thực ra cũng chưa biết gì nhiều, chỉ dùng chủ yếu S3 để storage với EC2 để làm server train model thôi, với 1 chút chút về IAM để manage user, resouces các thứ), so don't worry, nothing's impossible :D
 * Vừa đi làm vừa ôn thi trong khoảng 3 tháng, mình cũng bị tật delay nên các bạn hoàn toàn có thể hoàn thành sớm hơn.
 
